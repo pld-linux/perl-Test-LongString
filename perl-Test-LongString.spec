@@ -8,13 +8,13 @@
 Summary:	Test::LongString - tests strings for equality, with more helpful failures
 Summary(pl.UTF-8):	Test::LongString - sprawdzanie łańcuchów pod kątem identyczności
 Name:		perl-Test-LongString
-Version:	0.11
+Version:	0.15
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Test/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	860635425e63c5f15261418f25cf106f
+# Source0-md5:	e628d735b8e8f33d3992541f823491c3
 URL:		http://search.cpan.org/dist/Test-LongString/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
