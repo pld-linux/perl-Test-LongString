@@ -8,7 +8,7 @@ Summary:	Test::LongString - tests strings for equality, with more helpful failur
 Summary(pl.UTF-8):	Test::LongString - sprawdzanie łańcuchów pod kątem identyczności
 Name:		perl-Test-LongString
 Version:	0.17
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
